@@ -37,7 +37,7 @@ if __name__ == "__main__":
     print(str(resp))
     print(resp.get("message"))
 
-    def
+
     # Define the sleep parameters for each thread
     sleep_params = [2, 4, 6]
 
